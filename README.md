@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/DS1MA-Java?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/DS1MA-Java?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/DS1M?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/DS1M?style=flat-square">
 </p>
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
